@@ -18,7 +18,12 @@ function getobtainmarks(eng,math,urdu,sci,comp){
 console.log(getobtainmarks(45,65,45,77,34,87))
 
 
+function obtainmarks(obatin){
 
+return "Marks obtained: "+obatin
+}
+
+console.log(obtainmarks(45+65+45+77+34+87))
 
 
 
